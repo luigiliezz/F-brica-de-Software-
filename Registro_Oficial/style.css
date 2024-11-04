@@ -1,12 +1,34 @@
 
 body{
     background: linear-gradient(to bottom, #000, #530C0C);
+    
 }
 
+button{
+    background-color: #D23636;
+    color: #E5E5E5;
+    margin-top: 30px;
+    margin-left: 25px;
+    width: 200px;
+    height: 40px;
+    
+}
 
+.botao_secundario{
+    background-color: #D23636;
+    color: #E5E5E5;
+    margin-top: 30px;
+    margin-left: 25px;
+    width: 200px;
+    height: 40px;
+    margin-left: 1035px;
+    
+
+}
 
 h1 {
     text-align: center;
+    color: #fff;
 }
 
 table{
