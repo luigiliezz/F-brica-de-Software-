@@ -11,6 +11,7 @@ button{
     margin-left: 25px;
     width: 200px;
     height: 40px;
+    font-family: "Jockey One", sans-serif;
     
 }
 
@@ -29,6 +30,9 @@ button{
 h1 {
     text-align: center;
     color: #fff;
+    font-size: 40px;
+    font-family: "Alata", sans-serif;
+    font-weight: 100;
 }
 
 table{
@@ -47,7 +51,8 @@ table{
 
 tr{
    background-color: #272525;
-   color: #fff;
+   color: #E5E5E5;
+   font-family: "Jockey One", sans-serif;
     
     
     
@@ -56,6 +61,7 @@ tr{
 
 th{
     border: 1px solid  rgba(255, 255, 255, 0.863);
+  
     
    
     
@@ -65,6 +71,7 @@ th{
 td{
     border: 1px solid  #fff;
     padding: 30px;
+    font-family: "Jockey One", sans-serif;
    
    
 
