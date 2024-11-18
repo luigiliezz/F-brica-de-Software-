@@ -7,7 +7,7 @@ body{
 button{
     background-color: #D23636;
     color: #E5E5E5;
-    margin-top: 30px;
+    margin-top: 50px;
     margin-left: 25px;
     width: 200px;
     height: 40px;
@@ -18,11 +18,11 @@ button{
 .botao_secundario{
     background-color: #D23636;
     color: #E5E5E5;
-    margin-top: 30px;
-    margin-left: 25px;
+    margin-top: 50px;
     width: 200px;
     height: 40px;
-    margin-left: 1035px;
+    margin-left: 1400px;
+    margin-bottom: 162px;
     
 
 }
